@@ -1,6 +1,6 @@
 # About Me
 
-A a student founder building software intelligence for data centre infrastructure. Based in Singapore, studying Data Science and Economics at the National University of Singapore. My work sits at the intersection of applied machine learning, physical systems, and energy-efficient computing, with a focus on making AI practically useful at infrastructure scale.
+A student founder building software intelligence for data centre infrastructure. Based in Singapore, studying Data Science and Economics at the National University of Singapore. My work sits at the intersection of applied machine learning, physical systems, and energy-efficient computing, with a focus on making AI practically useful at infrastructure scale.
 
 Current Favourite Quote
 "The reasonable man adapts himself to the world;
